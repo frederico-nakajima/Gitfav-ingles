@@ -14,18 +14,11 @@
 <br>
 
 <p align="center">
-  <img alt="GitFav challenge" src="assets/Git Fav.png" width="80%">
+  <img alt="GitFav challenge" src="assets/Capa.png" width="100%">
 </p>
 <br>
 
-<p align="center">
-  <img alt="GitFav challenge" src="assets/Git Fav (1).png" width="80%">
-</p>
-<br>
 
-<p align="center">
-  <img alt="GitFav challenge" src="assets/Git Fav (2).png" width="80%">
-</p>
 
 ## 🚀 Technologies
 
